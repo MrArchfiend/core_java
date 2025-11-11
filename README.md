@@ -123,7 +123,20 @@ Each branch in this repository represents a complete learning module:
 - Integrated all concepts into comprehensive projects combining packages, exceptions, and wrappers
 
 ---
+## 🎯 Future Roadmap & Next Steps
 
+This lab work has helped build a strong foundation in core Java and object-oriented programming. Going forward, I plan to expand my knowledge and move towards real-world application development. The next areas I will focus on include:
+
+- Spring & Spring Boot for building scalable enterprise applications  
+- JDBC and Hibernate for efficient database integration  
+- REST API development for creating backend services  
+- Maven/Gradle for project automation and dependency management  
+- JUnit for writing unit tests and ensuring code reliability  
+- Data Structures and Algorithms to improve logic and performance
+
+The goal is to progress from understanding syntax to being able to design, develop, and deploy complete production-ready systems.
+
+---
 ## 🚀 Learning Outcomes
 
 Through this training program, I've transformed from a beginner to a confident Java developer capable of:
@@ -133,7 +146,6 @@ Through this training program, I've transformed from a beginner to a confident J
 - ✅ Using modern Java features like lambdas and functional interfaces
 - ✅ Organizing large codebases with packages and modular design
 - ✅ Collaborating effectively using Git version control
-  
----
 
+---
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
