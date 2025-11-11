@@ -124,16 +124,6 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-## 🧰 Technology Stack
-
-| Tool | Purpose |
-|------|---------|
-| ☕ **Java JDK 25** | Core programming language and runtime |
-| 🎨 **IntelliJ IDEA** | Primary IDE for development and debugging |
-| 🌿 **Git & GitHub** | Version control and code collaboration |
-
----
-
 ## 🚀 Learning Outcomes
 
 Through this training program, I've transformed from a beginner to a confident Java developer capable of:
