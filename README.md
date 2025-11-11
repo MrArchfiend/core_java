@@ -26,6 +26,7 @@ Each branch in this repository represents a complete learning module:
 | `functional-interface` | Functional interfaces, lambda expressions, default methods, and static methods in interfaces |
 | `error-and-exception` | Exception handling mechanisms, try-catch blocks, custom exceptions, and error management |
 | `lambda-expression` | Advanced lambda usage, functional programming concepts, and practical implementations |
+| `practice-projects` | banking, hospital, library | 
 
 ---
 
