@@ -31,7 +31,7 @@ Each branch in this repository represents a complete learning module:
 
 ## 🗓️ Week-by-Week Progress Log
 
-### 📅 **August 11-13, 2025** → Version Control Bootcamp
+### 1) **August 11-13, 2025** → Version Control Bootcamp
 **🔧 Skills Acquired:**
 - Installed and configured Git Bash on my local machine
 - Learned the distinction between Git (version control system), Git Bash (terminal), and GitHub (hosting platform)
@@ -41,7 +41,7 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-### 📅 **August 18-20, 2025** → Java Foundations
+### 2) **August 18-20, 2025** → Java Foundations
 **☕ Core Concepts Covered:**
 - Explored the Java ecosystem and JVM architecture
 - Studied primitive data types, variables, and operators
@@ -51,7 +51,7 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-### 📅 **August 25-27, 2025** → Logic & Iteration Mastery
+### 3) **August 25-27, 2025** → Logic & Iteration Mastery
 **🔄 Topics Explored:**
 - Implemented decision-making with `if-else` statements and `switch-case` constructs
 - Built loops: `for`, `while`, and `do-while` for repetitive tasks
@@ -61,7 +61,7 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-### 📅 **September 1-3, 2025** → Methods & String Power
+### 4) **September 1-3, 2025** → Methods & String Power
 **🧩 Key Learnings:**
 - Handled edge cases like null values, empty inputs, and boundary conditions
 - Designed custom methods with different return types and parameters
@@ -72,7 +72,7 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-### 📅 **September 8-10, 2025** → Object-Oriented Thinking
+### 5) **September 8-10, 2025** → Object-Oriented Thinking
 **🏗️ OOP Fundamentals:**
 - Grasped the four pillars: Encapsulation, Inheritance, Polymorphism, Abstraction
 - Worked with constructors: default, parameterized, and chained constructors
@@ -82,7 +82,7 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-### 📅 **September 15-17, 2025** → Advanced OOP Architecture
+### 6) **September 15-17, 2025** → Advanced OOP Architecture
 **🎨 Design Patterns & Concepts:**
 - Studied abstract classes vs interfaces and when to use each
 - Implemented compile-time polymorphism (method overloading) and runtime polymorphism (method overriding)
@@ -92,7 +92,7 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-### 📅 **September 22-24, 2025** → Real-World Problem Solving
+### 7) **September 22-24, 2025** → Real-World Problem Solving
 **💡 Practical Application:**
 - Solved industry-inspired problems using OOP principles
 - Designed class hierarchies for real-world entities (banking systems, vehicle management, etc.)
@@ -101,7 +101,7 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-### 📅 **October 13-15, 2025** → Modern Java Features
+### 8) **October 13-15, 2025** → Modern Java Features
 **⚡ Functional Programming Basics:**
 - Completed deep dive into Java interfaces and their implementation
 - Explored functional interfaces and the `@FunctionalInterface` annotation
@@ -112,7 +112,7 @@ Each branch in this repository represents a complete learning module:
 
 ---
 
-### 📅 **October 27-29, 2025** → Enterprise Java Concepts
+### 9) **October 27-29, 2025** → Enterprise Java Concepts
 **🔐 Professional Development Skills:**
 - Organized code into packages for better project structure
 - Mastered exception handling with `try`, `catch`, `finally`, `throw`, and `throws`
