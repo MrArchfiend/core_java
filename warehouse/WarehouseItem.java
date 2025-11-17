@@ -1,0 +1,1 @@
+package warehouse; public abstract class WarehouseItem {}

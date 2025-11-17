@@ -1,0 +1,1 @@
+package fleet; public abstract class Vehicle {}

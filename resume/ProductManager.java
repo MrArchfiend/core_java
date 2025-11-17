@@ -1,0 +1,1 @@
+package resume; public class ProductManager extends JobRole {}

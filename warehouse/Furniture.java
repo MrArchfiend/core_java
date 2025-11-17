@@ -1,0 +1,1 @@
+package warehouse; public class Furniture extends WarehouseItem {}
